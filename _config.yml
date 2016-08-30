@@ -1,0 +1,14 @@
+layout_spectrum: 0.7633541426621377
+typography_spectrum: 0.4715788357425481
+color:
+  brandStrength: 0.6689670290797949
+  lightness: 0.48883298016153276
+  saturation: 0.7991529230494052
+  rhythmicContrast: 0.7830189217347652
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: dsa
